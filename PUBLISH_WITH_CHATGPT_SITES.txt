@@ -1,0 +1,21 @@
+CHATGPT SITES PUBLISHING BRIEF — EXOPLANET PLAYGROUND
+
+Start a ChatGPT Work chat, mention @Sites, and upload exoplanet_workshop_kit.zip or exoplanet_playground.html.
+
+PASTE THIS INTO THE WORK CHAT:
+
+Create a PUBLIC-FACING website called “Exoplanet Playground” using the attached, completed HTML site as the source of truth. This website is for 40-minute ECSJ 2026 workshop participants, who will build small science apps from a shared NASA Exoplanet Archive dataset.
+
+DO NOT redesign from scratch. Keep both uploaded official EFSJ and ZME Science logos in the brand strip at the top and the footer. Both logos are embedded in the HTML; do not substitute text-only logos. Preserve its dark visual design, responsive layout, all 10 project cards grouped into levels 1–4, the editable two-field prompt builder, the automatically customized universal master prompt, copy/download-prompt actions, the NASA dataset download, and the journalism verification rules.
+
+The website must work without accounts, database, server functions, third-party libraries, or live NASA APIs. If the inline compressed CSV payload survives the Sites build, keep it. Otherwise use the attached dataset.csv as a publicly downloadable static asset, ensuring the “Download NASA dataset.csv” button works.
+
+First build a PREVIEW only. Verify that picking “The Missing Data Mystery” changes both prompt inputs and the master prompt. Verify the dataset download is exactly the attached CSV (40,194 raw records and 6,375 default records). Verify mobile layout. Once I review and approve, publish to a public ChatGPT Sites URL and give me the link.
+
+PUBLISHING IN CHATGPT SITES
+1. Review generated preview.
+2. Open Share and choose Anyone on the Internet, if your account supports public publishing.
+3. Publish and choose Copy link.
+4. Open the public link in a private/incognito browser to verify everyone can access it without signing in.
+
+The ChatGPT Sites URL may have the host domain openai.chatgpt.site; you do not need a custom domain.
